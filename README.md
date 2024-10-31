@@ -8,4 +8,4 @@ Diariamente, eu e os demais alunos tinham que acessar dois portais usados pela i
 Para facilitar a visualização das tarefas de escola, fiz este programa em Python. Ele acessa ambos os portais com seu login e senha, e por meio do Web Scrapping retorna uma lista ordenada por data de envio de todas as tarefas. Esta lista pode ser enviada pelo Whatsapp em algum chat selecionado, porém é necessário ter o [Whatsapp Business](https://business.whatsapp.com).
 - Portais: [Moodle](https://ava.cefetmg.br/calendar/view.php?view=upcoming), [Sigaa](https://sig.cefetmg.br/sigaa/verTelaLogin.do)
 
-Este projeto inicialmente foi feito em Java, e resolvi refazê-lo em Python para aprender a linguagem. A versão em Java possui interface gráfica e está nos meus repositórios com o nome de "WhatsApp Avisos"
+Este projeto inicialmente foi feito em Java, e resolvi refazê-lo em Python para aprender a linguagem. A versão em Java possui interface gráfica e está [aqui](https://github.com/Danilohr/Sigaa)
